@@ -13,9 +13,26 @@ This repository serves as a central collection of various scripts and automation
 The repository is organized into separate folders for each project or language, for example:
 
 - `Docker/` – Scripts related to Docker operations and container management.
+- `Linux`/ – Scripts for Linux system administration and automation. 
 - `Python/` – Python scripts and automation tools.
 - `JavaScript/` – JavaScript utilities and development scripts.
 
+  
 ## Contribution
 
 Contributions are welcome! Please follow the standard pull request workflow and ensure that scripts are well-documented and tested.
+
+
+/
+├── Docker/
+│   ├── pull image docker/
+│   └── monitoring/
+├── Python/
+│   ├── automation/
+│   └── utils/
+├── JavaScript/
+│   └── tools/
+│
+├── README.md
+│
+└──
