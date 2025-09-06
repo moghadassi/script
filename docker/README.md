@@ -16,4 +16,7 @@ These scripts are designed to make it easier for developers and system administr
 - **Usage:**  
   ```bash
   chmod +x docker-monitor.sh
-  ./docker-monitor.sh
+  sudo ./docker-monitor.sh
+```
+
+
