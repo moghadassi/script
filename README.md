@@ -23,16 +23,3 @@ The repository is organized into separate folders for each project or language, 
 Contributions are welcome! Please follow the standard pull request workflow and ensure that scripts are well-documented and tested.
 
 
-/
-├── Docker/
-│   ├── pull image docker/
-│   └── monitoring/
-├── Python/
-│   ├── automation/
-│   └── utils/
-├── JavaScript/
-│   └── tools/
-│
-├── README.md
-│
-└──
