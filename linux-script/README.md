@@ -40,7 +40,7 @@ chmod +x script-name.sh
 3. Run the script:
 ```bash
 ./script-name.sh
-
+```
 
 ℹ️ If the script requires administrator privileges, run it with sudo:
 ```bash
