@@ -8,7 +8,7 @@ It is designed to be **resumable**, meaning if the installation is interrupted, 
 ## 🛠️ Tools Installed
 
 ### 1. Development Tools
-- `curl`, `wget`, `git`, `build-essential`, `vim`, `tmux`, `tree`, `htop`, `unzip`, `software-properties-common`, `apt-transport-https`, `ca-certificates`, `gnupg`
+- `nano`,`curl`, `wget`, `git`, `build-essential`, `vim`, `tmux`, `tree`, `htop`, `unzip`, `software-properties-common`, `apt-transport-https`, `ca-certificates`, `gnupg`
 
 ### 2. Java
 - `openjdk-21-jdk`
