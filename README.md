@@ -12,10 +12,10 @@ This repository serves as a central collection of various scripts and automation
 
 The repository is organized into separate folders for each project or language, for example:
 
-- `Linux`/ – Scripts for Linux system administration and automation. 
 - `Docker/` – Scripts related to Docker operations and container management.
-- `Python/` – Python scripts and automation tools.
+- `Linux`/ – Scripts for Linux system administration and automation. 
 - `JavaScript/` – JavaScript utilities and development scripts.
+- `Python/` – Python scripts and automation tools.
 
   
 ## Contribution
