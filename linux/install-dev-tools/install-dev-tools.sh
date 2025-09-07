@@ -19,7 +19,7 @@ sudo apt --fix-broken install -y || true
 # 2️⃣ Packages to install
 packages=(
   # Development Tools
-  curl wget git build-essential vim tmux tree htop unzip software-properties-common apt-transport-https ca-certificates gnupg
+  nano curl wget git build-essential vim tmux tree htop unzip software-properties-common apt-transport-https ca-certificates gnupg
   
   # Java
   openjdk-21-jdk
