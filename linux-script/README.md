@@ -27,15 +27,15 @@ Each script is designed for a specific purpose and can be executed independently
 ### How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/linux-scripts.git
+   git clone https://github.com/moghadassi/linux-scripts.git
    cd linux-scripts
 
 
 2. Make the script executable:
 ```bash 
-chmod +x script-name.sh
+chmod +x {script-name}.sh
 ```
 
 3. Run the script:
 ```bash
-sudo ./script-name.sh
+sudo ./{script-name}.sh
