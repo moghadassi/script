@@ -33,9 +33,13 @@ Each script is designed for a specific purpose and can be executed independently
 
 2. Make the script executable:
 ```bash 
-chmod +x {script-name}.sh
+chmod +x script-name.sh
+
 ```
 
 3. Run the script:
 ```bash
-sudo ./{script-name}.sh
+./script-name.sh
+# or with sudo if required
+sudo ./script-name.sh
+
