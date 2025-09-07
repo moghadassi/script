@@ -18,22 +18,40 @@ sudo apt --fix-broken install -y || true
 
 # 2️⃣ Packages to install
 packages=(
-  # Development Tools
-  nano curl wget git build-essential vim tmux tree htop unzip software-properties-common apt-transport-https ca-certificates gnupg p7zip-full p7zip-rar
+  # 📂 Source Control & Networking
+  curl wget git
+
+  # ✍️ Text Editors
+  nano vim
+
+  # 📊 Monitoring & Navigation
+  htop tree
+
+  # 📦 Archive & Compression Tools
+  unzip p7zip-full p7zip-rar
+
+  # 🛠️ Development Essentials
+  build-essential
+
+  # 🖥️ Terminal Multiplexer
+  tmux
+
+  # ⚙️ System & Repository Management
+  software-properties-common apt-transport-https ca-certificates gnupg
   
-  # Java
+  # ☕ Java
   openjdk-21-jdk
 
-  # C# / .NET
+  # 💻 C# / .NET
   dotnet-sdk-8.0 dotnet-runtime-8.0 aspnetcore-runtime-8.0 mono-complete
 
-  # Networking / Net Tools
+  # 🌐 Networking / Net Tools
   netcat-openbsd nmap traceroute wireshark tcpdump dnsutils net-tools whois
 
-  # Editors & IDE
+  # 📝 Editors & IDE
   code
 
-  # Docker
+  # 🐳 Docker
   docker.io docker-compose
 )
 
