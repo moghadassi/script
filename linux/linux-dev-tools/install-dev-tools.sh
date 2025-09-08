@@ -42,6 +42,10 @@ packages=(
   # 🖥️ Terminal Multiplexer
   tmux        # Split terminal into multiple panes and manage sessions
 
+
+  gparted # Graphical tool for hard drive management and partitioning.
+  fdisk #Command line tool to create, edit, and delete partitions.
+
   # ⚙️ System & Repository Management
   software-properties-common # Manage software repositories
   apt-transport-https        # Enable APT to use https sources
