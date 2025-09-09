@@ -45,3 +45,7 @@ chmod +x script-name.sh
 ℹ️ If the script requires administrator privileges, run it with sudo:
 ```bash
 sudo ./script-name.sh
+
+
+
+
