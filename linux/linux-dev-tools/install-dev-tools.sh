@@ -1,4 +1,13 @@
 #!/usr/bin/env bash
+
+# =========================================
+# Usage:
+#   Make it executable --->  sudo chmod +x linux-dev-tools.sh
+#   Run it             --->  sudo ./linux-dev-tools.sh
+#
+# Note: Use "sudo" to run this script file
+# =========================================
+
 set -e
 
 LOGFILE="$HOME/install-dev-tools.log"
