@@ -2,8 +2,8 @@
 
 # =========================================
 # Usage:
-#   Make it executable --->  sudo chmod +x linux-dev-tools.sh
-#   Run it             --->  sudo ./linux-dev-tools.sh
+#   Make it executable --->  sudo chmod +x install-dev-tools.sh
+#   Run it             --->  sudo ./install-dev-tools.sh
 #
 # Note: Use "sudo" to run this script file
 # =========================================
