@@ -22,6 +22,8 @@ images=(
   "alpine:latest"
   "golang:latest"
   "busybox:stable-glibc"
+  "n8nio/n8n"
+  
 )
 
 # Pull all images
