@@ -22,6 +22,7 @@ images=(
   "alpine:latest"
   "golang:latest"
   "busybox:stable-glibc"
+  "n8nio/n8n"
 )
 
 # Ask user if they want to add more images
